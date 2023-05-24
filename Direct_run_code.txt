@@ -1,0 +1,3 @@
+@echo
+"C:\Users\keval\AppData\Local\Programs\Python\Python311\python.exe" "C:\Users\keval\Desktop\Project Pdf\main.py"
+pause
