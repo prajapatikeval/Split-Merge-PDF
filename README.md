@@ -1,6 +1,6 @@
 # Split-Merge-PDF
 
-A Simple GUI based template using tkinter module in python, and the template is to merge two pdf and split one pdf with the help og pypdf module in python
+A Simple GUI based template using tkinter module in python, and the template is to merge two pdf and split one pdf with the help of pypdf module in python
 
 ## Main Page :
 
